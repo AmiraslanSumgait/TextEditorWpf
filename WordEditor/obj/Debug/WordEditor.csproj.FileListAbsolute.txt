@@ -1,0 +1,15 @@
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\bin\Debug\WordEditor.exe.config
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\bin\Debug\WordEditor.exe
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\bin\Debug\WordEditor.pdb
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\App.g.cs
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor_MarkupCompile.cache
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor_MarkupCompile.lref
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\MainWindow.baml
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor.g.resources
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor.exe
+C:\Users\Amiraslan\source\repos\WordEditor\WordEditor\obj\Debug\WordEditor.pdb
